@@ -1,4 +1,4 @@
-#This ReadME covers the installation process of Java Fx on Eclipse 2020 and seperately some JavaFx coding projects 
+#This ReadME covers the installation process of Java Fx on Eclipse 2020 and seperately some Java/JavaFx coding projects 
 
 #Java Fx Instatllation Steps on Eclipse 2020:
 1. Download latest Eclipse version for Java developers at https://www.eclipse.org/downloads/packages/
