@@ -1,5 +1,7 @@
 #This ReadME covers the installation process of Java Fx on Eclipse 2020 
+
 #Java Fx Installation Steps on Eclipse 2020:
+
 1. Download latest Eclipse version for Java developers at https://www.eclipse.org/downloads/packages/
 2. Download JavaFx Plugin from Eclipse Application, go to help -> Eclipse Marketplace -> type in FX and download the e(fx) plugin and it will ask you to restart Eclipse
 3. Download latest Java FX download version from https://gluonhq.com/products/javafx/ 
